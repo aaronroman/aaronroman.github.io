@@ -1,0 +1,21 @@
+title: Aaron Roman Blog
+email: aaron.roman@danelfin.com
+description: >-
+    Driving AI & MLOps innovation at Danelfin | Embracing AI paradigms for agile, data-centric solutions and transformative insights.
+baseurl: ""
+url: "https://aaronroman.github.io"
+twitter_username: aaronroman
+github_username: aaronroman
+linkedin_username: aaronroman
+
+markdown: kramdown
+highlighter: rouge
+theme: minima
+plugins:
+  - jekyll-feed
+
+header_pages:
+  - about.md
+  - blog.md
+
+show_excerpts: true
