@@ -15,3 +15,7 @@ Co-Founder and CDO at [Danelfin](https://danelfin.com) | Enthusiastic about #ML 
 [![Twitter](https://img.shields.io/badge/-aaronroman-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/aaronroman)](https://twitter.com/aaronroman)
 
 ## Latest Blog Posts
+
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
