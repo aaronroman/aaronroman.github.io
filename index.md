@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-![background](https://raw.githubusercontent.com/aaronroman/aaronroman/cfbd7eafa5b495441d874222ec9248365db7cd9b/background_ai_generated.png)
+![background](/assets/images/background_ai_generated.png)
 
 ## About me
 
