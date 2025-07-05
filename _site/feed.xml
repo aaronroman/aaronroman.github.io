@@ -1,10 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2025-06-27T09:57:07+00:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">Aaron Roman Blog</title><subtitle>Driving AI &amp; MLOps innovation at Danelfin | Embracing AI paradigms for agile, data-centric solutions and transformative insights.</subtitle><entry><title type="html">Welcome to My Blog - Democratizing AI for Investment Analysis</title><link href="http://0.0.0.0:4000/introduction/ai/fintech/2024/12/27/welcome-to-my-blog.html" rel="alternate" type="text/html" title="Welcome to My Blog - Democratizing AI for Investment Analysis" /><published>2024-12-27T10:00:00+00:00</published><updated>2024-12-27T10:00:00+00:00</updated><id>http://0.0.0.0:4000/introduction/ai/fintech/2024/12/27/welcome-to-my-blog</id><content type="html" xml:base="http://0.0.0.0:4000/introduction/ai/fintech/2024/12/27/welcome-to-my-blog.html"><![CDATA[<p>¡Hola! I’m Aaron Roman, Co-Founder and Chief Data Scientist at <a href="https://danelfin.com">Danelfin</a>, where we’re revolutionizing investment analysis through artificial intelligence.</p>
-
-<h2 id="my-journey-from-code-to-capital-markets">My Journey: From Code to Capital Markets</h2>
-
-<p>As Chief Data Scientist at Danelfin, I’ve had the privilege of co-founding a platform that’s changing how investors approach the stock market. Our mission is simple yet powerful: <strong>democratize AI-powered investment analysis</strong>.</p>
-
-<p>For too long, sophisticated AI technology was exclusively available to hedge funds and elite investors. Together with my co-founder Tomás Diago (former Softonic founder), we decided it was time to change that and bring analytical power to all investors worldwide.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://aaronroman.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://aaronroman.github.io/" rel="alternate" type="text/html" /><updated>2025-07-05T11:49:55+02:00</updated><id>https://aaronroman.github.io/feed.xml</id><title type="html">Aaron Roman Blog</title><subtitle>Driving AI &amp; MLOps at Danelfin | Embracing AI paradigms for agile, data-centric solutions and transformative insights.</subtitle><entry><title type="html">Welcome</title><link href="https://aaronroman.github.io/introduction/2025/07/05/welcome.html" rel="alternate" type="text/html" title="Welcome" /><published>2025-07-05T00:00:00+02:00</published><updated>2025-07-05T00:00:00+02:00</updated><id>https://aaronroman.github.io/introduction/2025/07/05/welcome</id><content type="html" xml:base="https://aaronroman.github.io/introduction/2025/07/05/welcome.html"><![CDATA[<p>¡Hola! I’m Aaron Roman, Co-Founder and Head of Data Engineering &amp; AI at <a href="https://danelfin.com">Danelfin</a>, where we’re revolutionizing investment analysis through explainable artificial intelligence models.</p>
 
 <h2 id="what-were-building-at-danelfin">What We’re Building at Danelfin</h2>
 
@@ -12,36 +6,13 @@
 
 <ul>
   <li><strong>Rates investments</strong> on a 1-10 scale</li>
+  <li><strong>Provides explainable AI</strong> to help users understand investment decisions</li>
   <li><strong>Predicts market performance</strong> for US and European stocks</li>
   <li><strong>Makes complex analysis accessible</strong> to retail investors</li>
   <li><strong>Leverages cutting-edge ML models</strong> for financial insights</li>
 </ul>
 
 <p>We recently closed a €2 million funding round led by Nauta Capital, which validates our vision of making advanced investment tools available to everyone.</p>
-
-<h2 id="what-youll-find-here">What You’ll Find Here</h2>
-
-<p>This blog will be my space to share insights about:</p>
-
-<ul>
-  <li><strong>AI in Finance</strong>: How machine learning is transforming investment analysis</li>
-  <li><strong>Data Science</strong>: From raw data to actionable insights</li>
-  <li><strong>MLOps</strong>: Building robust AI systems for financial markets</li>
-  <li><strong>Python &amp; ML</strong>: Technical deep-dives and practical applications</li>
-  <li><strong>Startup Journey</strong>: Lessons learned from building a fintech startup</li>
-  <li><strong>Tech Leadership</strong>: Managing data science teams and product development</li>
-</ul>
-
-<h2 id="beyond-the-code">Beyond the Code</h2>
-
-<p>When I’m not building AI models or analyzing market data, you’ll find me:</p>
-
-<ul>
-  <li>Exploring the latest research in artificial intelligence</li>
-  <li>Contributing to open-source projects</li>
-  <li>Staying up-to-date with fintech innovations</li>
-  <li>Learning about global markets and investment strategies</li>
-</ul>
 
 <h2 id="lets-connect">Let’s Connect</h2>
 
@@ -54,6 +25,4 @@
   <li><a href="https://github.com/aaronroman">GitHub</a> - Code and open-source contributions</li>
 </ul>
 
-<hr />
-
-<p><em>Welcome to this journey of democratizing AI for investment analysis. Stay tuned for technical deep-dives, startup insights, and the latest in AI-powered finance!</em></p>]]></content><author><name></name></author><category term="introduction" /><category term="ai" /><category term="fintech" /><summary type="html"><![CDATA[¡Hola! I’m Aaron Roman, Co-Founder and Chief Data Scientist at Danelfin, where we’re revolutionizing investment analysis through artificial intelligence.]]></summary></entry></feed>
+<hr />]]></content><author><name></name></author><category term="introduction" /><summary type="html"><![CDATA[¡Hola! I’m Aaron Roman, Co-Founder and Head of Data Engineering &amp; AI at Danelfin, where we’re revolutionizing investment analysis through explainable artificial intelligence models.]]></summary></entry></feed>
