@@ -1,2 +1,6 @@
 .claude
 vendor
+.jekyll-cache
+_site
+.sass-cache
+.bundle
