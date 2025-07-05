@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome"
+title: "First real post just for testing"
 date: 2025-07-04 22:00:00 +0000
 categories: introduction
 ---
