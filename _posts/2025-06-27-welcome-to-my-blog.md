@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to My Blog - Democratizing AI for Investment Analysis"
-date: 2025-06-27 10:00:00 +0000
+date: 2024-12-27 10:00:00 +0000
 categories: introduction ai fintech
 ---
 
