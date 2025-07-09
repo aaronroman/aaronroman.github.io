@@ -2,7 +2,7 @@
 layout: post
 title: "LLMs para la toma de decisiones - Reflexiones"
 date: 2025-07-08 19:00:00 +0000
-categories: relfexiones
+categories: reflexiones
 ---
 
 ## Los LLMs y la toma de decisiones
