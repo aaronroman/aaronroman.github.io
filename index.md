@@ -7,7 +7,7 @@ title: Home
 
 ## About me
 
-Co-Founder and CDO at [Danelfin](https://danelfin.com) | Enthusiastic about #ML #Python and #MLOps | Exploring #LLM and AI breakthroughs
+Co-Founder | Head of Data & AI at [Danelfin](https://danelfin.com) | Enthusiastic about #ML #Python and #MLOps | Exploring #GenAI and #AI breakthroughs
 
 ## How to reach me
 
