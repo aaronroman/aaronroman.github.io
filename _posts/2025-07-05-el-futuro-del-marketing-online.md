@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "El futuro del marketing online"
-date: 2025-07-12 20:00:00 +0000
+date: 2025-07-05 20:00:00 +0000
 categories: reflexiones
 ---
 

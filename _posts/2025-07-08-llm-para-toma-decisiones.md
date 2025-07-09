@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "LLMs para la toma de decisiones - Reflexiones"
-date: 2025-07-08 19:00:00 +0000
+date: 2025-07-08 00:00:00 +0000
 categories: reflexiones
 ---
 
