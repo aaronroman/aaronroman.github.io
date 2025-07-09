@@ -64,7 +64,8 @@ Los LLMs se entrenan con contenido web. Por eso, las marcas deben seguir invirti
 Los LLMs devuelven resultados en el idioma local del usuario.  
 Si queremos ser relevantes, el contenido debe estar en ese idioma, con un tono y enfoque cultural que conecte.
 
-Te invito hacer la prueba, busca contenido en ingles, obtentrás fuentes de habla inglesa (sea cual sea tu configuración local), pero si haces la busqueda en italiano las fuentes de los resultados de busqueda (sorpresa) son fuentes italianas. Que quiere decie esto, que pese a que los LLMs sean lenguaje-agnositos, las fuente a las que te enlazan han de ser comprensibles para el usuario, asi que usan fuentes locales... esto es una oportunidad para el marketing en LLms.
+Te invito hacer la prueba, busca contenido en ingles, obtentrás fuentes de habla inglesa (sea cual sea tu configuración local), pero si haces la busqueda en italiano las fuentes de los resultados de busqueda (sorpresa) son fuentes italianas. 
+Que quiere decie esto, que pese a que los LLMs sean lenguaje-agnositos, **las fuente a las que te enlazan han de ser comprensibles para el usuario**, asi que usan fuentes locales... **esto es una oportunidad** para el marketing en LLms.
 
 ---
 
@@ -81,6 +82,5 @@ Las reglas cambian, y quienes no se adapten quedarán atrás.
 4. **El SEO sigue vigente**, pero ahora enfocado en calidad y relevancia.  
 5. **Surgen nuevas formas de monetización**: personalización, integración, contenido contextual.
 
-En resumen:  
-Las reglas de Internet han cambiado, los LLMs se convertiran en los nuevos buscadores, filtrarán y nos masticarán la información. Pero el SEO seguirá siendo esencial para posicionar en ellos.
+Las reglas de Internet han cambiado, **los LLMs se convertiran en los nuevos buscadores**, filtrarán y nos masticarán la información. Pero el **SEO seguirá siendo esencial** para posicionar en ellos.
 
